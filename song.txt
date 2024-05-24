@@ -1,0 +1,2 @@
+Line 1 of song
+Line 2 of song
