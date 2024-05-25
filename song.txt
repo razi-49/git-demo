@@ -5,3 +5,8 @@ line 4 of song
 
 change line 5 of song
 change line 6 of song
+
+New line 7
+New line 8
+New line 9
+New line 10
